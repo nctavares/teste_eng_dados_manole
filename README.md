@@ -20,4 +20,4 @@ Este teste tem como objetivo avaliar conhecimentos técnicos para a função de 
 
     5° Consumo de API:
 
-        Identificação da abordagem mais performática para consumir dados de uma API, com base em 5 implementações fornecidas.
+        Identificação da abordagem mais performática para consumir dados de uma API.
