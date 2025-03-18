@@ -1,0 +1,5 @@
+## Como e quais ferramentas você usaria para implementar o monitoramento das cargas de dados?
+
+Para monitorar as cargas de dados, é fundamental adotar uma abordagem que inclua a coleta de métricas, a definição de alertas e a visualização do desempenho em tempo real. Isso pode ser feito por meio da instrumentação dos processos de carga, registrando tempos de execução, falhas e throughput, além da configuração de notificações para eventos críticos.
+
+Após pesquisar sobre as melhores ferramentas para monitoramento de cargas de dados, concluí que as três principais são Apache Airflow, Datadog e Prometheus + Grafana. O Airflow é ideal para orquestrar e monitorar pipelines complexos, com uma interface gráfica que mostra o status das tarefas e permite configurar alertas. O Datadog é uma plataforma completa para monitoramento em tempo real, com dashboards personalizados e integração com várias ferramentas, perfeito para ambientes distribuídos. Já a combinação Prometheus + Grafana é uma solução open-source poderosa, onde o Prometheus coleta métricas e o Grafana cria dashboards visuais e alertas, sendo altamente personalizável.
